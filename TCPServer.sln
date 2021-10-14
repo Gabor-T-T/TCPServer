@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPServer", "TCPServer\TCPServer.csproj", "{CA77814F-912B-4232-BEE3-9DF231B3AF24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA77814F-912B-4232-BEE3-9DF231B3AF24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA77814F-912B-4232-BEE3-9DF231B3AF24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA77814F-912B-4232-BEE3-9DF231B3AF24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA77814F-912B-4232-BEE3-9DF231B3AF24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59293307-3B88-4142-A846-B9A1EBFB1FD7}
+	EndGlobalSection
+EndGlobal
